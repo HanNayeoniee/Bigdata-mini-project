@@ -1,8 +1,8 @@
 # Bigdata_mini-project
 
-[강의자료](https://nbviewer.jupyter.org/github/smu405/s/tree/master/)
+# 요즘 가장 인기있는 디저트는 무엇일까?
 
-주제: 요즘 가장 인기있는 디저트는 무엇일까?
+[강의자료](https://nbviewer.jupyter.org/github/smu405/s/tree/master/)
 
 ---
 ## ◼ 1단계: 데이터 수집
