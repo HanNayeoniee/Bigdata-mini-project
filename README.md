@@ -14,7 +14,7 @@
 
   코드: [1_naver_api_final.ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/1_naver_api_final.ipynb), [2_get_crawling_links.ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/2_get_crawling_links.ipynb), [3_get_blog_contents.ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/3_get_blog_contents.ipynb)
   
-  -네이버 api를 활용하고 크롤링하면 수집할 수 있는 데이터라서 사용한 데이터는 따로 업로드하지 않음
+  -네이버 api를 활용, 크롤링하면 수집할 수 있는 데이터라서 데이터는 따로 업로드하지 않음.
   
 ---
 ## ◼ 2단계: 데이터 전처리
