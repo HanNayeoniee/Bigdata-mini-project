@@ -12,8 +12,13 @@
   2. 반환되는 json형식의 데이터에서 블로그 링크 부분만 따로 저장
   3. 총 1100개의 블로그 링크의 본문만 크롤링해 데이터 수집
 
-  코드: 1) naver_api_final, 2) get_crawling_links, 3) get_blog_contents
-  -네이버 api를 활용하고 크롤링하면 수집할 수 있는 데이터라서 사용한 데이터는 따로 업로드하지 
+  코드: [1) naver_api_final,ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/1)%20naver_api_final.ipynb)
+  [2) get_crawling_links.ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/2)%20get_crawling_links.ipynb)
+  [3) get_blog_contents.ipynb](https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/3)%20get_blog_contents.ipynb)
+  
+  -네이버 api를 활용하고 크롤링하면 수집할 수 있는 데이터라서 사용한 데이터는 따로 업로드하지 않음
+  
+  https://github.com/HanNayeoniee/Bigdata_mini-project/blob/master/1)%20naver_api_final.ipynb
   
 ---
 ## ◼ 2단계: 데이터 전처리
