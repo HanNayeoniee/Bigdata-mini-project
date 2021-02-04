@@ -2,7 +2,9 @@
 
 # 요즘 가장 인기있는 디저트는 무엇일까?
 
-빅데이터 분석 수업시간에 진행한 프로젝트 입니다.  [강의자료](https://nbviewer.jupyter.org/github/smu405/s/tree/master/)
+빅데이터 분석 수업시간에 진행한 프로젝트 입니다.
+
+[강의자료](https://nbviewer.jupyter.org/github/smu405/s/tree/master/)
 
 ---
 ## ◼ 1단계: 데이터 수집
